@@ -1,0 +1,386 @@
+.top-header{
+    height: 5px;
+    width: 100%;
+    font-family: "Helvetica Neue",Helvetica,Arial,Verdana,Sans-serif !important;
+    font-size: 12px;
+    padding-bottom: 15px;
+}
+    
+.login{
+    padding-left: 30px;
+    padding-bottom: 30px;
+    font-size:12px;
+    
+}
+
+.reg{
+    
+    padding-bottom: 10px;
+    font-size:12px;
+    padding-bottom: 30px;
+    
+}
+
+.daily
+    {
+        padding-left: 40px;
+        padding-bottom: 10px;
+        font-size:12px;
+        padding-bottom: 30px;
+        
+    }
+
+.help
+    {
+        padding-left: 10px;
+        
+        font-size:12px;
+        padding-bottom: 30px;
+        
+    }
+.sell{
+    padding-left: 750px;
+   
+    font-size:12px;
+    padding-bottom: 30px;
+    
+}
+
+.noti{
+    padding-left: 15px;
+    padding-bottom: 30px;
+    font-size:12px;
+    
+}
+.cart{
+    padding-left: 15px;
+    padding-bottom: 30px;
+    font-size:12px;
+    
+}
+
+.header{
+    
+    font-family: "Helvetica Neue",Helvetica,Arial,Verdana,Sans-serif !important;
+    font-size: 14px;
+    height: 60px;
+    width: 100%;
+        padding: 5px;
+        padding-left: 50px;
+        font-size:12px;
+}
+
+.logo{
+    float: left;
+}
+.cat1{
+    border: none;
+    float: left;
+    padding-top: 20px;
+
+}
+.search{
+    float: left;
+    position: relative;
+    border: 1px solid black;
+    
+
+}
+
+
+.selectcat{
+    position: absolute;
+    right: 0px;
+    height: 40px;
+    padding-right: 15px;
+    padding-left: 10px;
+}
+.button2{
+    background-color: #3665f3;
+    height: 42px;
+    width: 150px;
+    color: white;
+    float: left;
+    margin-left: 4px;
+    border: none;
+    
+}
+.link2{
+    float: left;
+    padding-top: 10px;
+}
+.menu{
+    font-family: "Market Sans", Arial, sans-serif;
+    font-size: 13px;
+    padding-left: 180px;
+    
+
+}
+.banner1{
+    width: 100%;
+    padding-top: 10px;
+}
+.daily-deals {
+        font-size: 1.5rem;
+        line-height: 32px;
+        font-weight: 700;
+        margin-bottom: 0;
+        padding-top: 40px;
+        padding-left: 40px;
+       
+    }
+.see-all{
+    color: var(--color-foreground-primary);
+    display: flex;
+    padding-left: 17px;
+    border-left: solid 2px var(--color-neutral-1);
+    line-height: 1.125rem;
+    font-size: 20px;
+    margin-bottom: 0;
+    padding-top: 46px;
+    
+}
+.products1{
+    padding-left: 15px;
+    
+}
+.mySlides2{
+    margin-left: 15px;
+    width: 200px;
+    height: 200px;
+
+}
+.mySlides3{
+    margin-left: 15px;
+    width: 200px;
+    height: 200px;
+
+}
+.mySlides4{
+    margin-left: 15px;
+    width: 200px;
+    height: 200px;
+
+}
+.mySlides5{
+    margin-left: 15px;
+    width: 200px;
+    height: 200px;
+
+}
+.mySlides6{
+    margin-left: 15px;
+    width: 200px;
+    height: 200px;
+
+}
+.banner3{
+    height: 200px;
+    width: 100%;
+    background-color: white;
+    padding-top: 0px;
+}
+.box3-1{
+    height: 70px;
+    width: 1345px;
+    background-color: white;
+    margin-left: 30px;
+    float: left;
+}
+.box3-2{
+    height: 100px;
+    width: 75%;
+    background-color: #460610;
+    color: white;
+    margin-left: 30px;
+    float: left;
+}
+.box4-1{
+    height: 50px;
+    width: 1000px;
+    background-color: #460610;
+    margin-left: 30px;
+    float: left;
+}
+
+.box4-2{
+    height: 100px;
+    width: 21%;
+    background-color: #460610;
+    margin-left: 30px;
+    display: flex;
+}
+.text2
+    {
+        font-family: "Market Sans", Arial, sans-serif;
+        color: white;
+        
+    }
+.box4-2{
+    font-family: "Market Sans", Arial, sans-serif;
+    
+}
+    
+.dailysee{
+    display: flex;
+}
+.button5{
+    width: 140px;
+    height: 40px;
+    border-color: white;
+    color:white;
+    background-color: #460610;
+    margin-left: 120px;
+    margin-top: 28px;
+
+}
+.text2{
+    margin-left: 12px;
+}
+.dailysee2{
+    display: flex;
+}
+.daily-deals2 {
+    font-size: 1.5rem;
+    line-height: 32px;
+    font-weight: 700;
+    margin-bottom: 0;
+    padding-top: 30px;
+    padding-left: 40px;
+    padding-bottom: 40px;
+   
+}
+.see-all2{
+color: var(--color-foreground-primary);
+display: flex;
+padding-left: 17px;
+border-left: solid 2px var(--color-neutral-1);
+line-height: 1.125rem;
+font-size: 20px;
+margin-bottom: 0;
+padding-top: 36px;
+}
+.category1{
+    padding-bottom: 10px;
+}
+.banner4{
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+
+.banner9{
+    width: 100%;
+    float: left;
+    display: flex;
+    height: 320px;
+    padding-top: 30px;
+}
+
+.b8-4{
+    float: left;
+    width: 25%;
+    padding-left: 40px;
+}
+
+.b8-5{
+    float: left;
+    width: 90%;
+    height: 90px;
+}
+.mySlides16{
+    height: 250px;
+    width: 94%;
+}
+.button12{
+    width: 186px;
+    height: 48px;
+    background-color: white;
+    font-weight: bold;
+    font-size: 16px;
+}
+.text3{
+    color: black;
+    font-family: "Helvetica Neue",Helvetica,Arial,Verdana,Sans-serif !important;
+}
+
+.footer{
+    font-size:12px;
+    font-family: "Helvetica Neue",Helvetica,Arial,Verdana,Sans-serif !important;
+    color: #767676 !important;
+    width: 100%;
+    padding-right: 50px;
+    padding-left: 30px;
+    padding-top: 50px;
+    float: left;
+}
+.buy{
+    
+    height: 200px;
+    width: 20%;
+    float: left;
+}
+.sell2{
+    
+    width: 20%;
+    float: left;
+}
+.tools2{
+    
+    width: 150px;
+    height: 200px;
+    float: left;
+}
+.connected2{
+   
+    width: 20%;
+    height: 200px;
+    float: left;
+}
+.about2{
+    
+    width: 20%;
+    float: left;
+}
+.community2{
+    
+    float: left;
+    width: 100%;
+}
+.sites2{
+    
+    float: left;
+    width: 100%;
+}
+.help2{
+    width: 67%;
+    float: left;
+    
+}
+.copyright2{
+    width: 93.5%;
+    float: left;
+    
+    font-size: 11px;
+}
+.footer-last{
+    width: 20%;
+    float: left;
+    
+}
+.text10{
+        color: #767676;
+        text-decoration: none;
+    }
+    
+    a:hover {
+        color:#767676; 
+        text-decoration:none; 
+        cursor:pointer;  
+    }
+#country{
+    background-color: #f5f5f5;
+    width: 128px;
+    height: 30px;
+}
+
